@@ -1,0 +1,143 @@
+---
+title: "hw2_sentiment_analysis_and_tfidf"
+output: html_document
+---
+
+```{r}
+# Load Libraries
+library(tibble)
+library(dplyr)
+library(readr)
+library(tidyr)
+library(tidytext) 
+library(stringr) 
+library(quanteda)
+library(quanteda.textstats)
+```
+
+
+```{r}
+# Read in files
+circle_raw <- read_file("../texts/A07594__Circle_of_Commerce.txt")
+free_raw   <- read_file("../texts/B14801__Free_Trade.txt")
+
+# Add files to tibble
+texts_miss <- tibble(
+  doc_title = c("Circle of Commerce", "Free Trade"),
+  text = c(circle_raw, free_raw)
+)
+texts_miss
+```
+
+```{r}
+# Remove stop words
+data("stop_words")
+
+# Add our own project-specific stopwords (you can, and will, expand this list later)
+custom_stopwords <- tibble(
+  word = c(
+    "vnto", "haue", "doo", "hath", "bee", "ye", "thee"
+  )
+)
+
+all_stopwords <- bind_rows(stop_words, custom_stopwords) %>%
+  distinct(word)
+
+all_stopwords %>% slice(1:10)
+
+```
+
+
+```{r}
+# Tokenize and clean the text
+
+text_clean <- texts_miss %>%
+  unnest_tokens(word, text) %>%
+  mutate(word = str_to_lower(word)) %>%
+  anti_join(all_stopwords, by = "word")
+
+text_clean
+```
+
+```{r}
+# Join tokens to the Bing sentiment dictionary
+bing <- get_sentiments("bing")
+
+text_sentiments <- text_clean %>%
+  inner_join(bing, by = "word")
+text_sentiments
+```
+
+
+```{r}
+# Compute raw sentiment totals
+summary_table <- text_sentiments %>% 
+  group_by(doc_title) %>%
+  summarise(n_positive = sum(sentiment == "positive"),n_negative = sum(sentiment == "negative"), net_sentiment = n_positive - n_negative)
+
+summary_table
+```
+
+```{r}
+# Compute TF-IDF for words in each document
+
+tf_idf_table <- text_clean %>%
+  count(doc_title,word, sort = TRUE) %>%
+  bind_tf_idf(word,doc_title,n)
+
+tf_idf_table
+```
+
+```{r}
+# Keep only sentiment-bearing words
+tf_idf_sentiments <- tf_idf_table %>%
+  inner_join(bing,by='word')
+
+tf_idf_sentiments
+```
+
+```{r}
+# Compute TF-IDF-weighted sentiment totals
+
+summary_table_2 <- tf_idf_sentiments %>%
+group_by(doc_title) %>%
+summarise(
+tfidf_positive = sum(tf_idf[sentiment == "positive"], na.rm = TRUE),
+tfidf_negative = sum(tf_idf[sentiment == "negative"], na.rm = TRUE),
+.groups = "drop"
+) %>%
+mutate(
+# Replace missing values (NA) with 0
+tfidf_positive = tidyr::replace_na(tfidf_positive, 0),
+tfidf_negative = tidyr::replace_na(tfidf_negative, 0),
+# Net TF-IDF sentiment
+net_sentiment_tfidf = tfidf_positive - tfidf_negative
+)
+
+
+summary_table_2
+```
+
+```{r}
+# Find most influential words
+top5_sentiment_words <- tf_idf_sentiments %>%
+  select(doc_title, word, sentiment, tf_idf) %>%
+  group_by(doc_title) %>%
+  arrange(desc(tf_idf), .by_group = TRUE) %>%
+  slice_head(n = 20) %>%
+
+
+top5_sentiment_words
+```
+
+
+```{r}
+# Create a final table and export as a .csv
+
+final_table <- summary_table %>%
+  left_join(summary_table_2, by = 'doc_title')
+
+final_table
+
+write_csv(final_table,"../results/sentiment_summary_table.csv")
+```

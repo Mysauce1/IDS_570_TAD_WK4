@@ -1,0 +1,1248 @@
+doc_title,word,sentiment.x,n,tf,idf,tf_idf,sentiment.y
+Circle of Commerce,danger,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,death,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,violent,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,danger,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,kill,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,errors,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,eminent,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,lie,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,bleeding,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,kill,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,complaint,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,led,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,rough,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,wrought,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,prudence,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,dangerous,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,doubt,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,merit,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,rude,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,contempt,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,led,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,contentment,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,vile,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,delight,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,deformed,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,reformed,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,deformed,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,reformed,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,broken,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,refuted,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,efficient,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,efficient,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,efficient,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,imperfection,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,heaven,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,corruption,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,perfection,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,imperfect,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,heathen,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,humane,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,holy,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,holy,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,peculiar,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,perfection,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,ignorant,negative,5,3.402054841124039e-4,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,ingratitude,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,crime,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,regard,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,exceeding,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,genius,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,offence,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,pry,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,ignorant,negative,5,3.402054841124039e-4,0,0,negative
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,peace,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,degenerate,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fame,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,offence,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,advantage,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,admirable,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,incomparable,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,dead,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,efficient,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,wondrous,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,improperly,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,imaginary,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,doubt,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,advantage,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,afford,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,encouragement,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,deny,negative,4,2.721643872899231e-4,0,0,negative
+Circle of Commerce,encouragement,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,gained,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,commendable,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,infallible,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,gain,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,gain,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,rich,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,meddle,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,admirable,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,amiable,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,vent,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,improper,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,meddle,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,afraid,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,detract,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,hinder,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,afford,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,hinder,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,begging,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,lie,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,incomparably,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,hinder,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,limitation,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,diligence,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,protection,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,tender,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,dignity,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,glorious,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,knock,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,flare,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,abundance,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,abundance,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,deny,negative,4,2.721643872899231e-4,0,0,negative
+Circle of Commerce,fallacies,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,improper,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,ignorant,negative,5,3.402054841124039e-4,0,0,negative
+Circle of Commerce,commend,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,properly,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,patient,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,patient,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,regard,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,faulty,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,lame,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,defect,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,troubled,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,wrong,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,denies,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,laudable,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,eloquence,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,humane,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,holy,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,humane,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,commendable,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,encouragement,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,delight,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,humane,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,litigious,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,willingly,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,pardon,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,ignorant,negative,5,3.402054841124039e-4,0,0,negative
+Circle of Commerce,deprived,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,doubt,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,honored,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,dead,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,honored,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,wrong,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,neglect,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,fury,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,mad,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,dying,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,omit,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,hurt,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,malicious,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,obnoxious,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,error,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,lame,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,forbid,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,wilt,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,kill,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,fat,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,enemy,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,envy,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,reputation,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,forbid,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,peace,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,luck,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,vehemently,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,wrong,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,poor,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,burden,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,complaint,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,liberty,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,amply,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,happy,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,renewed,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,prudent,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,rough,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,meddle,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,indifferent,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,cold,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,comfort,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,ample,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,comfort,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,malice,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,ample,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,detract,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,oblique,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,debt,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,audacious,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,calumny,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,hazard,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,reputation,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,excelled,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,bad,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,neglected,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,afford,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,timely,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,weary,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,bondage,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,inevitable,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,grievances,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,complaint,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,fame,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,danger,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,inconvenience,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,favour,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,inexperience,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fond,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,forbid,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,confident,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,encouragement,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,humility,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,meddle,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,led,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,partiality,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,genius,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,happy,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,flatter,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,commend,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,pure,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,doubt,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,dilemma,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,dilemma,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,refute,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,deny,negative,4,2.721643872899231e-4,0,0,negative
+Circle of Commerce,deny,negative,4,2.721643872899231e-4,0,0,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,imperfect,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,perfect,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,imperfect,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,perfect,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,imperfect,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,perfect,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,perfect,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,perfect,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,famous,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,efficient,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,perfection,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,difficult,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,divine,positive,7,4.7628767775736546e-4,0.6931471805599453,3.301374609729616e-4,positive
+Circle of Commerce,renowned,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,heathen,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,admirable,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,refutation,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,deprived,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,fame,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,vice,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,saint,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,nimble,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,malady,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,dedicated,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,trouble,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,vanity,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,strictly,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fondly,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,fond,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,properly,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,skill,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,conceit,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,ire,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,proper,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,pure,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,impure,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,limitation,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,limit,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,falling,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,danger,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,debts,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,dead,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,comfort,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,error,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,amaze,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,golden,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,golden,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,golden,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,abundance,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,complaint,negative,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,negative
+Circle of Commerce,hard,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,imaginary,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,ready,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,refuted,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,liberty,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,excellently,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,liberty,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,rightly,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,liberty,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,indifferent,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,stranger,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,fault,negative,6,4.082465809348847e-4,0,0,negative
+Circle of Commerce,saint,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,die,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,limitation,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,gained,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,ignorant,negative,5,3.402054841124039e-4,0,0,negative
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,tingle,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,cheaper,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,fertile,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,killing,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,doubt,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,dangerous,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,damnable,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,difficult,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,exceed,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,rich,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,exceed,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,debt,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,conceit,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,freed,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,petty,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,exceed,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,complaints,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,golden,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,impertinent,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Circle of Commerce,freed,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,petty,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,regard,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,lead,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,wrought,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,fine,positive,9,6.12369871402327e-4,0,0,positive
+Circle of Commerce,rich,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,lead,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,variety,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,imperfect,negative,5,3.402054841124039e-4,0.6931471805599453,2.3581247212354405e-4,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,freed,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,vent,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,freed,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,gracious,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,lead,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,petty,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,fallen,negative,7,4.7628767775736546e-4,0,0,negative
+Circle of Commerce,debts,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,backward,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,exceed,positive,4,2.721643872899231e-4,0.6931471805599453,1.886499776988352e-4,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,malady,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,defect,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,afraid,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,idle,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,fertile,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,refute,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,correct,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,shine,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,glorious,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,decay,negative,14,9.525753555147309e-4,0,0,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,commend,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,complained,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,remedy,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,difficulty,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,trouble,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,affection,positive,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,positive
+Circle of Commerce,idle,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,idle,negative,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,negative
+Circle of Commerce,begging,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,fall,negative,11,7.484520650472886e-4,0,0,negative
+Circle of Commerce,charitable,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,charitable,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,exceeding,positive,2,1.3608219364496155e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,orderly,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,prudently,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,free,positive,30,0.0020412329046744235,0,0,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,piety,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,happy,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,excellency,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,happy,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,vent,negative,3,2.0412329046744235e-4,0,0,negative
+Circle of Commerce,abundance,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,rich,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,tyranny,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,contentment,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,glory,positive,8,5.443287745798462e-4,0,0,positive
+Circle of Commerce,noble,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,perfection,positive,4,2.721643872899231e-4,0,0,positive
+Circle of Commerce,excellent,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,encouragement,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,grace,positive,6,4.082465809348847e-4,0,0,positive
+Circle of Commerce,prize,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,rich,positive,5,3.402054841124039e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,gold,positive,10,6.804109682248078e-4,0,0,positive
+Circle of Commerce,pure,positive,3,2.0412329046744235e-4,0.6931471805599453,1.4148748327412643e-4,positive
+Circle of Commerce,worth,positive,13,8.845342586922501e-4,0,0,positive
+Circle of Commerce,happily,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,fallacy,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,enrich,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,neglect,negative,2,1.3608219364496155e-4,0,0,negative
+Circle of Commerce,benefit,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,miracle,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,grand,positive,1,6.804109682248077e-5,0,0,positive
+Circle of Commerce,excellency,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,falling,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,impurity,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,worthy,positive,14,9.525753555147309e-4,0,0,positive
+Circle of Commerce,beauty,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,complement,positive,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,positive
+Circle of Commerce,vanity,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,rotten,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,ruinous,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,fraught,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,barren,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,hang,negative,1,6.804109682248077e-5,0,0,negative
+Circle of Commerce,peace,positive,3,2.0412329046744235e-4,0,0,positive
+Circle of Commerce,pardon,positive,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,positive
+Circle of Commerce,chaos,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,chaos,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,rude,negative,2,1.3608219364496155e-4,0.6931471805599453,9.43249888494176e-5,negative
+Circle of Commerce,dull,negative,1,6.804109682248077e-5,0.6931471805599453,4.71624944247088e-5,negative
+Circle of Commerce,ignorance,negative,6,4.082465809348847e-4,0.6931471805599453,2.8297496654825286e-4,negative
+Free Trade,pleased,positive,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,positive
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,piety,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,prudence,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,glorious,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,humble,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,mighty,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,top,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,elegant,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,decline,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,prudence,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,gracious,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,sufficient,positive,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,positive
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,happily,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,mistaken,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,felicity,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,blessing,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,hinder,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,worth,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,fine,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,indifferent,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,pretend,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,debts,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,obstructed,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,languish,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,ignorant,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,scarcity,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,deny,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,vice,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,abundance,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,master,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,enrich,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,sore,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,enemy,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,abundance,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,famous,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,beg,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,suffer,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,abused,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,defender,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,cry,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,protest,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,comfort,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,rich,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,prosperity,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,abundance,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,cruelty,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,violently,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,enemies,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,grand,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,amity,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,hostility,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,admirable,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,lose,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,excellent,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,richly,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,variety,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,ample,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,issue,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,wasted,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,compassion,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,prudent,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,enemies,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,hurt,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,pleased,positive,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,positive
+Free Trade,variety,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,sufficient,positive,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,miserable,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,richly,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,lead,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,sufficient,positive,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,rich,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,deficient,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,efficient,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,deficient,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,disaster,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,faint,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,dead,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,wonderfully,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,efficient,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,modesty,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,extortion,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,extortion,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,litigious,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,biting,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,efficient,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,incomparable,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,sincerity,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,sincerity,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,admiration,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,honesty,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,dangerous,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,fraught,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,tedious,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,fast,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,malice,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,happily,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,neglected,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,invaluable,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,wondrous,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,variety,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,proper,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,peculiar,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,wonderfully,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,exceeding,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,exhausted,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,ignorant,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,hard,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,repugnant,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,hard,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,pleased,positive,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,positive
+Free Trade,noble,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,ignoble,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,gold,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,disturbance,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,passe,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,excellent,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,perfect,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,forbidden,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,offend,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,offend,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,lawfully,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,impossible,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,noble,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,suffer,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,prudence,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,silly,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,mystery,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,skill,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,fault,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,ignorant,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,lawfully,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,impiety,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,falsely,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,abuses,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,faults,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,contempt,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,pleased,positive,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,positive
+Free Trade,censure,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,debts,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,ample,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,vent,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,vehemently,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,confront,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,faults,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,passe,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,gained,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,expired,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,ample,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,freed,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,grace,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,excellent,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,diligent,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,reasonable,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,talents,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,detriment,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,repugnant,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,properly,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,properly,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,strange,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,famous,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,gracious,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,lawful,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,noble,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,perfection,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,distinction,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,vent,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,vent,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,suffice,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,forbidden,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,forbidden,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,plea,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,broken,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,gracious,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,prudent,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,bane,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,amity,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,accomplishment,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,honest,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,afford,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,impossible,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,guilty,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,grace,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,damned,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,abused,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,pretty,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,offend,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,offence,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,passe,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,suffice,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,famous,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,discontent,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,denying,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,orderly,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,masters,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,warlike,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,proper,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,proper,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,warlike,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,impossible,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,reformed,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,abuses,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,impossible,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,qualified,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,noble,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,excelled,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,excelled,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,fallacy,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,prosper,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,miserable,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,deny,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,flourishing,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,impossible,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,mockery,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,confront,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,oppose,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,wisely,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,benefits,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,variety,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,difficult,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,master,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,skill,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,confusion,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,disorder,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,rightly,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,neglect,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,rash,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,litigious,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,disturbed,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,abused,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,abused,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,indignity,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,protect,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,glory,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,fame,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,illustrious,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,heathen,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,obscure,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,protect,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,abused,negative,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,negative
+Free Trade,patronize,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,orderly,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,fall,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,disabled,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,flourishing,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,neglected,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,mightily,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,disorder,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,distinguished,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,fall,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,peaceable,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,deadly,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,thrift,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,neglected,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,impaired,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,viper,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,fall,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,fine,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,encouragement,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,glorious,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,fortune,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,hard,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,weary,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,mightily,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,lamentably,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,cruelty,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,lamentable,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,lead,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,enmity,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,worse,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,worse,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,lost,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,worthy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,exceeding,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,hinder,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,prudent,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,perfection,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,scarcity,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,stranger,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,cure,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,fall,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,endearing,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,sufficient,positive,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,positive
+Free Trade,valor,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,abundance,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,respect,positive,10,0.0012492192379762648,0.6931471805599453,8.658927927044913e-4,positive
+Free Trade,happily,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,blessing,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,disorder,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,pleasure,positive,9,0.0011242973141786384,0.6931471805599453,7.793035134340422e-4,positive
+Free Trade,vouchsafe,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,hinder,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,fame,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,shine,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,patience,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,grace,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,disorderly,negative,6,7.495315427857589e-4,0.6931471805599453,5.195356756226948e-4,negative
+Free Trade,cruel,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,vouchsafe,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,modesty,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,pry,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,sharpest,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,blind,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,hang,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,glory,positive,2,2.4984384759525296e-4,0,0,positive
+Free Trade,mists,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,obscured,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,glorious,positive,3,3.7476577139287947e-4,0,0,positive
+Free Trade,fallen,negative,6,7.495315427857589e-4,0,0,negative
+Free Trade,renewed,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,complaints,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,censure,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,protection,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,happily,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,blessing,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,deficient,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,efficient,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,litigious,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,scant,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,misinformed,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,debt,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,excellent,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,encouragement,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,ready,positive,8,9.993753903810119e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,suffer,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,litigious,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,rash,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,litigious,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,pleas,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,pleas,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,pleas,negative,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,negative
+Free Trade,inequality,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,excellent,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,eased,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,fall,negative,5,6.246096189881324e-4,0,0,negative
+Free Trade,hard,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,assurance,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,happy,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,assurances,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,eased,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,peace,positive,7,8.744534665833854e-4,0,0,positive
+Free Trade,ease,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,bias,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,variety,positive,5,6.246096189881324e-4,0,0,positive
+Free Trade,master,positive,3,3.7476577139287947e-4,0.6931471805599453,2.597678378113474e-4,positive
+Free Trade,dispute,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,strange,negative,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,warned,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,distract,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,safe,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,promise,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,breach,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,genuine,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,difficult,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,ignorant,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,negligent,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,reasonable,positive,2,2.4984384759525296e-4,0.6931471805599453,1.7317855854089825e-4,positive
+Free Trade,confident,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,abuses,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,triumph,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,forfeit,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
+Free Trade,abuse,negative,12,0.0014990630855715179,0.6931471805599453,0.0010390713512453897,negative
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,hurt,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,hurt,negative,3,3.7476577139287947e-4,0,0,negative
+Free Trade,false,negative,15,0.0018738288569643974,0.6931471805599453,0.001298839189056737,negative
+Free Trade,facilitate,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,suffer,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,encouraging,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,abuses,negative,4,4.996876951905059e-4,0.6931471805599453,3.463571170817965e-4,negative
+Free Trade,supreme,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,dignity,positive,1,1.2492192379762648e-4,0,0,positive
+Free Trade,peculiar,negative,2,2.4984384759525296e-4,0,0,negative
+Free Trade,debts,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,easing,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,debts,negative,4,4.996876951905059e-4,0,0,negative
+Free Trade,encouragement,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,graciously,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,pleased,positive,5,6.246096189881324e-4,0.6931471805599453,4.3294639635224565e-4,positive
+Free Trade,liberty,positive,19,0.0023735165521549034,0,0,positive
+Free Trade,decay,negative,27,0.003372891942535915,0,0,negative
+Free Trade,imposition,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,recommend,positive,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,strict,negative,7,8.744534665833854e-4,0.6931471805599453,6.061249548931439e-4,negative
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,gracious,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,free,positive,6,7.495315427857589e-4,0,0,positive
+Free Trade,encouragement,positive,4,4.996876951905059e-4,0,0,positive
+Free Trade,benefit,positive,18,0.002248594628357277,0,0,positive
+Free Trade,remedy,positive,40,0.004996876951905059,0,0,positive
+Free Trade,loose,negative,8,9.993753903810119e-4,0.6931471805599453,6.92714234163593e-4,negative
+Free Trade,treasure,positive,24,0.0029981261711430358,0.6931471805599453,0.0020781427024907794,positive
+Free Trade,defect,negative,1,1.2492192379762648e-4,0,0,negative
+Free Trade,scarce,negative,1,1.2492192379762648e-4,0.6931471805599453,8.658927927044913e-5,negative
