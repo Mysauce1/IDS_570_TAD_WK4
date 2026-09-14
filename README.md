@@ -1,1 +1,2 @@
 # IDS_570_TAD_WK4
+This repository focuses on comparing the sentiment of two trade-focused texts by Edward Misselden:  “The Circle of Commerce: or, The Balance of Trade, in Defence of Free Trade, Opposed to Malynes's Little Book of the Canker of England's Commonwealth” and “Free Trade, or, The Means to Make Trade Flourish.” Sentiment is measured using Term Frequency-Inverse Document Frequency scores.
